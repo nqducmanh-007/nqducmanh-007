@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100%"/>
 </p>
 
 <h1 align="center">Xin chào 👋, Mình là Mạnh</h1>
@@ -8,21 +8,40 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF5733&center=true&vCenter=true&lines=Network+Engineering;Cybersecurity;C+Programming;Python+Development;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00FFAA&center=true&vCenter=true&lines=Network+Engineering;Cybersecurity;C+Programming;Python+Development;Always+Learning+New+Things">
 </p>
 
 ---
 
 ## 🌟 About Me
-- 🔭 Hiện đang học **Kỹ thuật mạng & Lập trình**
+- 🔭 Đang học **Kỹ thuật mạng & Lập trình**
 - 🌱 Tập trung vào **C, Python, Networking**
+- 🎯 Mục tiêu: Trở thành **Kỹ sư IT đa năng**
 - 📫 Liên hệ: **youremail@example.com**
 - ⚡ Fun fact: *Uống cà phê giúp mình code nhanh hơn ☕*
 
 ---
 
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://facebook.com/yourfacebook" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/yourinstagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@yourtiktok" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://t.me/yourtelegram" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 Languages and Tools
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -48,7 +67,7 @@
 
 ---
 
-## 🎯 Visitors Count
+## 👀 Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="visitor badge"/>
 </p>
