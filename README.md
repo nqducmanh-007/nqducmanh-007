@@ -34,55 +34,18 @@
   </a>
 </p>
 
----
-
-## ✨ About Me
-- 🔭 I’m currently working on **networking projects & automations**  
-- 🌱 Learning **cloud, container networking, infra as code**  
-- 👯 Looking to collaborate on **open-source networking tools**  
-- 💬 Ask me about **Linux, Git, Docker, simple infra hacks**  
-- ⚡ Fun fact: I love ☕ + 💻 = perfect combo!  
-
----
-
-## 📊 GitHub Stats
+<!-- Icon row -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=tokyonight" />
+  <a href="https://facebook.com/YOUR_FB" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="facebook"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=tokyonight" />
+  <a href="https://www.tiktok.com/@YOUR_TIKTOK" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/tiktok.png" alt="tiktok"/>
+  </a>
+  <a href="https://instagram.com/YOUR_IG" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram"/>
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="telegram"/>
   </a>
 </p>
-
----
-
-## ⚡ Fun Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="chill" width="200" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding" width="200" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="sparkle" width="200" />
-</p>
-
----
-
-## 📫 Contact
-💬 Reach me on Telegram:  
-<a href="https://t.me/YOUR_TELEGRAM" target="_blank" rel="noopener noreferrer">@YOUR_TELEGRAM</a>
-
----
