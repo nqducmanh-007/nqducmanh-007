@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="welcome" width="600"/>
+  <img
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2sxazc2aWM3bHZzNW5zdWNkdmphYWFpMGJrNHR3dnozMDcyYnp6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif" alt="welcome" width="600"/>
 </p>
 
 <h1 align="center">I'm <span style="color:#2dd4bf">NGUYEN DUC MANH</span> </h1>
