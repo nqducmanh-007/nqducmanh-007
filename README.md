@@ -1,16 +1,31 @@
-## Hi there 👋
+<!-- Banner hoặc GIF -->
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100%">
 
-<!--
-**nqducmanh-007/nqducmanh-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Xin chào! Mình là Mạnh  
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 💻 Hiện đang học **Kỹ thuật mạng & Lập trình**
+- 📱 Đang tìm hiểu **C / Python / Networking**
+- 📍 Việt Nam 🇻🇳  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 My Statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+
+---
+
+## ✨ Fun fact
+⭐ Mình thích thử nghiệm công nghệ mới và chia sẻ kiến thức.
